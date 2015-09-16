@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "monofuel34089@gmail.com",
+    "longName": "Threest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Threest",
+    "uuid": "7df18c55-2cbc-4551-a8ed-d9fffe20d791",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
