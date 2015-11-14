@@ -2,8 +2,7 @@
 
 A forth/postscript like language done for fun in c++.
 
-currently (mostly) working on linux, It was working on arduino at one point but then i re-designed alot of the interpreter stuff better
-so it needs to be re-done.
+currently (mostly) working on Windows, Linux, Mac, and on some Arduinos.
 
 FIXES:
 if a line doesn't end in a ;, vector error
